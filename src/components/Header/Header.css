@@ -10,8 +10,12 @@
         text-decoration: none;
         margin-left: 32px;
         color: #fff;
+        transition: 0.3s;
     }
     & a:hover {
-        color: #BE3144;
+        color: #FF9900;
+    }
+    & a:first-child {
+        color: #FF9900;
     }
 }
