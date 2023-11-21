@@ -1,0 +1,23 @@
+.cart-container {
+    font-family: 'Lato', sans-serif;
+    padding-top: 30px;
+    position: sticky;
+    top: 0;
+    & h3 {
+        text-align: center;
+        margin-bottom: 20px;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: normal;
+    }
+    & p {
+        font-size: 14px;
+        line-height: 35px;
+    }
+
+    & h6 {
+        font-size: 14px;
+        margin-top: 20px;
+    }
+}
